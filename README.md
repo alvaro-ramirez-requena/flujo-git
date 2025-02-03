@@ -18,3 +18,5 @@ o colaboradores podran hacer un fork hacia sus cuentas personales.
 
 Para crear un fork debes iniciar sesion en github y luego ingresar a la landing page del proyecto 
 del que quieras sacas tu Frok
+
+Para entender como llamar o categorizar a tus versiones te recomendamos un articulo en nuestro blog: 
